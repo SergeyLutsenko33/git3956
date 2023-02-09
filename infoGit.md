@@ -24,3 +24,6 @@
 
 > **git checkout -b <branch name>** - создание ветки и переход к ней
 
+> **git log --oneline** - коротенький журнал
+
+
