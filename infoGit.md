@@ -29,3 +29,5 @@
 > **git log -graph** - визуализировать дерево
 
 > **git merch** - создание ветки
+
+> **git branch -d <branch_name>** - удалить ветку с именем branch_name
