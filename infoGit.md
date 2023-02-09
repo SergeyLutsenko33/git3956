@@ -22,4 +22,5 @@
 
 > **git branch <branch name>** - создать новую ветку с именем  branch_name
 
-**git checkout -b <branch name>** - создание ветки и переход к ней
+> **git checkout -b <branch name>** - создание ветки и переход к ней
+
